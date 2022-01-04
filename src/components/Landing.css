@@ -112,14 +112,15 @@ nav a{
  /* -----chart --- */
  .chart {
     max-height: 1000px;
-    min-height: 100vh;
+    min-height: 65vh;
+    margin-top: 50px !important;
 }
 
 @media only screen and (max-width: 1200px) {
    
     .chart {
         max-height: 800px;
-        min-height: 68vh;
+        min-height: 65vh;
     }
     .side-menu form input{
         width: 100px;
@@ -146,6 +147,11 @@ nav a{
     .cards-stati{
         margin-left: 50px !important; 
     }
+    .card{
+       
+        margin-left:25px;
+      
+      }
 
   }
 @media only screen and (max-width: 650px) {
@@ -154,6 +160,7 @@ nav a{
         max-height: 800px;
         min-height: 50vh;
         margin-left: 20px;
+        
     }
     .side-menu form input{
         width: 60px;
@@ -167,4 +174,86 @@ nav a{
     .cards-stati{
         margin-left: 40px !important; 
     }
+    .card{
+       
+        margin-left:50px;
+      
+      }
   }
+
+  .landing{
+      float: right;
+      width: 75vw;
+  }
+
+  .logo{
+      color: #fff;
+      margin: 10px;
+      margin-bottom: 50px;
+  }
+
+  .card{
+    border:1px solid #eee;
+    display:inline-block;
+    margin:5px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+ 
+  }
+  .card:hover{
+    border:1px solid #eee;
+    display:inline-block;
+    margin:5px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+    background-color: rgb(247, 244, 244);
+    cursor: pointer;
+    
+  }
+  h2.title{
+    margin-top:4px;
+    margin-bottom:4px;
+  }
+  p{
+    margin:0;
+  }
+  .card1{
+    border:1px solid #eee;
+    margin:5px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+    background-color: rgb(214, 235, 214);
+  }
+  .card1:hover{
+    border:1px solid #eee;
+   
+    margin:5px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+    background-color: rgb(247, 244, 244);
+    cursor: pointer;
+   
+  }
+  .chart-type{
+    border:1px solid #eee;
+    width: 40%;
+    display: inline-block;
+    margin:15px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+    background-color: rgb(214, 235, 214);
+    margin-top: 30px;
+  }
+  .chart-type:hover{
+    border:1px solid #eee;
+    width: 40%;
+    display: inline-block;
+    margin:15px;
+    padding:8px 15px;
+    box-shadow:3px 5px #ccc;
+    background-color: rgb(247, 244, 244);
+    
+    margin-top: 30px;
+   
+  }
+
