@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Technology used
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+HTML, CSS, JavaScript, React.js,React-Hooks, React-Router-dom v6,
+Grid System of Bootstrap, HighCharts, Lodash, Axios, concept of debouncing 
 
-## Available Scripts
 
-In the project directory, you can run:
+### Learn to visualize the live Stocks, Forex or your organization data using Highcharts library in React JS with Redux.
 
-### `npm start`
+:ballot_box_with_check:Here are the scenarios -
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Learn how to integrate Highcharts library in React JS for data visualization.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You will display charts for live Stocks data and Forex data using Highstocks chart.
 
-### `npm test`
+Use custom REST APIs developed using Express JS, Node JS and Mongo DB of your organization and 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+display charts using Highcharts with drag and drop functionality. 
 
-### `npm run build`
+Compare different company stocks. Compare different country currency trends.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Here it is :100:
 
-### `npm run eject`
+![Demo](stock-gif.gif)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### What i have learned
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### :black_nib:Integrate Highcharts Library in React SPA.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### :black_nib:Working with user events and state to create interactive applications.
 
-## Learn More
+#### :black_nib:Visualize live Stocks and Forex data using HighStocks charts.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### :black_nib:React Hooks (in-depth)! ex. useSelector , useState, useEffect, useDispatch etc.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### :black_nib:Class-based components and functional components.
 
-### Code Splitting
+#### :black_nib:Compare different company stocks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### :black_nib:Routing with React Router.
 
-### Analyzing the Bundle Size
+#### :black_nib:Visualize stocks and currencies data using Candlestick chart and OHLC charts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### :black_nib:Customize Highstocks charts.
 
-### Making a Progressive Web App
+#### :black_nib:Applied the concept of debouncing in the search functionality.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### :black_nib:Display Candlestick, OHLC charts and customize Highstocks charts.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
